@@ -1,0 +1,21 @@
+{
+  "name": "@playground/cjs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Playground to test CJS modules",
+  "main": "index.js",
+  "scripts": {
+    "babel": "node src/babel.js",
+    "rollup": "node src/rollup.js",
+    "webpack": "node src/webpack.js",
+    "test": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Prabhat",
+  "license": "ISC",
+  "dependencies": {
+    "module-excercise-simply-babel": "^1.0.2",
+    "module-excercise-webpack": "^1.0.4",
+    "module-exercise-rollup": "^1.0.0"
+  }
+}

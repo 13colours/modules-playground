@@ -1,0 +1,20 @@
+{
+  "name": "@playground/esm",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Playground to test esm modules",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "rollup": "node src/rollup.esm.js",
+    "webpack": "node src/webpack.cjs.js",
+    "test": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Prabhat",
+  "license": "ISC",
+  "dependencies": {
+    "module-excercise-webpack": "^1.0.4",
+    "module-exercise-rollup": "^1.0.0"
+  }
+}

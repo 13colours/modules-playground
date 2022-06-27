@@ -1,0 +1,17 @@
+{
+  "name": "modules-playground",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Playground to test modules",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "cjs": "yarn workspace @playground/cjs",
+    "esm": "yarn workspace @playground/esm"
+  },
+  "keywords": [],
+  "author": "Prabhat",
+  "license": "ISC"
+}
