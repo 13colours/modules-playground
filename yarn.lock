@@ -16,3 +16,8 @@ module-exercise-rollup@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/module-exercise-rollup/-/module-exercise-rollup-1.0.0.tgz#bd5118869a735f66aaef59cd9b54bb39a904602a"
   integrity sha512-qAzNGm0XrXxwhE7s42956rJw5q0QRtWYZaFFwuM90iCVbM83JOSZSxN6zK5rUrAMYcI4kP0E2m1j3jygfaEfAw==
+
+module-exercise-vite@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/module-exercise-vite/-/module-exercise-vite-1.0.5.tgz#f5597df1b995e2a08daf08523b123f9e9883f526"
+  integrity sha512-6eS1/zMX/wHXLIIqHfxRBaoPLDutkGzxWizrwAYZv6/wqUJx7yRmZIh+xOVPaj/RW2E/mbZK8a5fB6YxdJaklQ==
