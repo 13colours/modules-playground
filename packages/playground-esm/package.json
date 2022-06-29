@@ -6,8 +6,9 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "rollup": "node src/rollup.esm.js",
-    "webpack": "node src/webpack.cjs.js",
+    "rollup": "node src/rollup.js",
+    "vite": "node src/vite.js",
+    "webpack": "node src/webpack.js",
     "test": "node src/index.js"
   },
   "keywords": [],
